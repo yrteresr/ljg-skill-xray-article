@@ -12,8 +12,8 @@
 ## 安装
 
 ```bash
-# 克隆到 Claude Code skills 目录
-git clone https://github.com/lijigang/ljg-skill-xray-article.git ~/.claude/skills/ljg-xray-article
+/plugin marketplace add lijigang/ljg-skill-xray-article
+/plugin install ljg-xray-article
 ```
 
 ## 使用
